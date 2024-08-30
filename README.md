@@ -9,6 +9,6 @@ Classification and regression, with a focus on neural networks and tree-based al
 ### Unsupervised learning techniques
 Clustering algorithms, dimensionality reduction methods (e.g. PCA, t-SNE, UMAP, self-organizing maps)
 
-### Further methods & the future
+### Interpretable ML & the future
 Interpreting machine learning models using SHAP (SHapley Additive exPlanations). Symbolic regression for interpretability. Including uncertainties in ML models. The future of ML/AI, including the potential of transformers.
 
