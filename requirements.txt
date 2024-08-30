@@ -1,10 +1,14 @@
 # The following file will (try to) capture all requirements needed to run the notebooks in this repo.
 # Basic packages
 numpy<2.0.0
+scipy
 pandas>=1.0.0,<3.0.0
 matplotlib
 astropy
 astroquery
+
+# To run notebooks
+ipykernel
 
 # ML stuff
 scikit-learn
