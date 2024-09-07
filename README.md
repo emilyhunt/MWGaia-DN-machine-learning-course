@@ -10,6 +10,8 @@ After creating a virtual environment with the tool of your choice (e.g. with [ve
 
 ```pip install -r requirements.txt```
 
+**Python 3.12 was used to develop this course. We recommend using the latest version of Python if possible - though (slightly) older versions should also be ok.**
+
 ## Topics
 
 ### Supervised learning techniques

@@ -1,5 +1,6 @@
-# Virtual environment (if necessary)
-.venv/
+# Local files
+data/allStarLite-dr17-synspec_rev1.fits
+data/raw_xp_spectra/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

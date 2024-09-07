@@ -3,6 +3,7 @@
 numpy<2.0.0
 scipy
 pandas>=1.0.0,<3.0.0
+pyarrow  # For loading .parquet data types
 matplotlib
 astropy
 astroquery
