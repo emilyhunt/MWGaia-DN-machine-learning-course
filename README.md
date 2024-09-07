@@ -6,7 +6,7 @@ The following repository contains course materials for a two-day machine learnin
 
 The dependencies needed for these notebooks are in `requirements.txt`. It is **strongly recommended** that you use a fresh virtual environment (or open each one on a cloud service like [Google Colab](https://colab.research.google.com/).)
 
-After creating a virtual environment with the tool of your choice, you can install them locally with pip via:
+After creating a virtual environment with the tool of your choice (e.g. with [venv](https://stackoverflow.com/questions/43069780/how-to-create-virtual-env-with-python3)), you can install them locally with pip via:
 
 ```pip install -r requirements.txt```
 
