@@ -37,6 +37,7 @@
 * features
 * categories
 
+* error rate
 * classification loss (function)
 * misclassification risk
 
@@ -56,6 +57,12 @@ If you want more details, [here is the relevant book chapter](Material/Ivezic202
 ## 2.2 Tree-based algorithms
 
 Now that we have seen a couple of the typical classification methods, **Let's have a look at another important class of models: [Decision trees](2_classification_astroML.ipynb)** 
+The theory is explained in Sect. 9.7 of the astroML book. If you prefer a short explanatory video, try for example [this](https://www.youtube.com/watch?v=JcI5E2Ng6r4). 
+
+Now, we already know that random-forest algorithms usually perform better than decision trees. 
+(WHY?)
+
+So let's try them out.
 
 ## 2.3 Neural networks
 
