@@ -3,30 +3,11 @@
 
 ## Have you encountered a regression problem in your own research? 
 
-
-
-
-
-
-
-
-
-
-
+![Anscombe's quartet](anscombe.png)
 
 ## How did you solve it?
 
-
-
-
-
-
-
-
-
-
-
-
+![Gaussian process regression](gp_reg.png)
 
 ## 3.1 A typical data-science example
 
