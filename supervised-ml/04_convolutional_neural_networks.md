@@ -1,6 +1,6 @@
 
 
-# 4. Convolutional neural networks
+# 4. More advanced models (mostly convolutional neural networks)
 
 Don't be afraid - try to play a bit with CNNs yourself.
 
@@ -29,6 +29,10 @@ Other examples implementing this idea are:
 
 [This notebook](04_02_classifying_galaxy_mergers_with_CNNs.ipynb) gives an example using HST and JWST images of (potentially) merging galaxies.
 [Hello Universe](https://archive.stsci.edu/hello-universe) has 2 more nice CNN examples - check them out!
+
+## Other interesting applications
+
+* [US elections](https://github.com/AndrewBrodsky/election_predictions)
 
 
 

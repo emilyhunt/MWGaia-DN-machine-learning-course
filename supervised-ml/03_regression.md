@@ -28,29 +28,40 @@
 
 
 
+## 3.1 A typical data-science example
 
-## 3.1 Basic terminology
+![Dystopia](dystopia.jpg)
 
-* labels
-* features
-
-* loss function
-
-* hyperparameters
-* ...
+[Predicting salary](https://github.com/Pranjali1049/Salary_Prediction/blob/main/Salary%20Prediction.ipynb), house prices, credit worthiness, etc... 
 
 ### The zoo of regression models
 
-The [sklearn page](https://scikit-learn.org/stable/supervised_learning.html) 
+There is an icredible variety of regressiion models on the market - to get an overview, let's just go through the [sklearn page](https://scikit-learn.org/stable/supervised_learning.html).
 
+Again, for a more focused view on (now mostly non-ML) regression methods, have a look at [the relevant astroML book chapter](Material/Ivezic2020_08_regression.pdf). Remember: **if you can write down a physically motivated model, use it**. Not always is there a need for ML.
 
-Again, have a look at [the relevant astroML book chapter](Material/Ivezic2020_08_regression.pdf). 
+![And sometimes you can be fooled...](./images/correlation.png)
 
+## 3.2 An astrophysics example: photometric redshifts
 
-## 3.2 Including uncertainties in ML models
+[Tree-based regression models for photometric redshifts](3_1_photo_z_regression.ipynb)
+
+## 3.3 A more detailed example (with TASKS:)
+
+[XGBoost for estimating stellar ages from spectroscopic data](3_2_train_xgboost_apogee_ages.ipynb)
+
+This example at least touches also the following points:
+
+### 3.3.1 Including uncertainties in ML models
 
 [Here](https://github.com/henrysky/astroNN/blob/master/demo_tutorial/NN_uncertainty_analysis/Uncertainty_Demo_x_sinx.ipynb) is a nice short tutorial of how to do this for different techniques.
 
-## 3.3 Making ML models interpretable 
+[This notebook](https://www.kaggle.com/code/neerajmohan/monte-carlo-dropout-uncertainity-prediction-in-dnn) focusses on the Mote-Carlo droput technique often used for neural networks. 
 
-The standard way of 
+
+### 3.3.2 Making ML models interpretable 
+
+Again, there is a zoo of methods that can help you interpreting your (sometimes seemingly black-box) ML models.
+A couple of years ago, a powerful method (with a powerful implementation) emerged: SHAP. 
+
+

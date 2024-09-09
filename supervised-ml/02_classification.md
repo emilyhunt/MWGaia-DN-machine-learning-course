@@ -3,7 +3,7 @@
 
 ## Have you encountered a classification problem in your own research? 
 
-
+![Problem: group new students!](new_students.jpg)
 
 
 
@@ -16,6 +16,7 @@
 
 ## How did you solve it?
 
+![Solution: the sorting hat?](./images/sorting_hat.jpg)
 
 
 
@@ -26,12 +27,15 @@
 
 
 
+## Well, how exactly? 
 
-
+![Inside the hat](./images/decision_tree.png)
 
 **Basic illustration of different classfication methods:[sklearn notebook](2_0_classifier_comparison_sklearn.ipynb)**
 
 ## 2.1 Some terminology
+
+Most terms have been introduced by Xavi and Mario yesterday:
 
 * labels
 * features
@@ -54,9 +58,15 @@ If you want more details, [here is the relevant book chapter](Material/Ivezic202
 
 [Here](Material/Anders2014_classification_poster.pdf) is an example of how these codes can be adapted for a real-life astro problem (from the 1st year of my PhD, 10 years ago:)
 
-## 2.2 Tree-based algorithms
+## 2.2 GROUP TASK! Dive into one (class of) algorithms:
 
-Now that we have seen a couple of the typical classification methods, **Let's have a look at another important class of models: [Decision trees](2_classification_astroML.ipynb)** 
+* **Get together into 4 (heterogeneous:) groups**
+* 
+
+
+### Tree-based algorithms
+
+Now that we have seen a couple of the typical classification methods, **Let's have a look at another important class of models: [Decision trees](2_2_decision_tree_classification.ipynb)** 
 The theory is explained in Sect. 9.7 of the astroML book. If you prefer a short explanatory video, try for example [this](https://www.youtube.com/watch?v=JcI5E2Ng6r4). 
 
 Now, we already know that random-forest algorithms usually perform better than decision trees. 
@@ -64,7 +74,7 @@ Now, we already know that random-forest algorithms usually perform better than d
 
 So let's try them out.
 
-## 2.3 Neural networks
+### Neural networks
 
 The [basics](https://github.com/zingale/computational_astrophysics/blob/main/content/machine-learning/neural-net-basics.md) of how an ANN works have been introduced by Emily in the morning. 
 

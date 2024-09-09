@@ -40,10 +40,10 @@
 
 Tuesday (Friedrich):
 
-* [Classification](Material/Ivezic2020_09_classification.pdf) basics and methods
+* [Classification](Material/Ivezic2020_09_classification.pdf): basics and methods
 * [Regression](Material/Ivezic2020_08_regression.pdf) methods (tree-based and neural networks)
-* Including uncertainties in regression models
-* Interpreting ML models with [SHAP](https://shap.readthedocs.io/en/latest/api.html)
+    * Interpreting ML models with [SHAP](https://shap.readthedocs.io/en/latest/api.html)
+    * Including uncertainties in regression models
 * More advanced models (convolutional neural networks, e.g. for image classification or spectrum fitting)
 
 Wednesday (Emily):
